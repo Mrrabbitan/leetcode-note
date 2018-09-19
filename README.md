@@ -6,3 +6,5 @@ do some practise
 9/13 stoneanddiamond and toLowerCase's solution and big_country sql
 
 9/14 two different data from data form
+
+9/17 add 1:hanmingdistance,2:mergetwotree,3:depth_of_binary_tree,4:fliping_image
